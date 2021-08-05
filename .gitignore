@@ -1,0 +1,9 @@
+venv
+downloads
+uploads
+download_from_db
+
+.vscode/
+__pycache__
+
+8d.zip
