@@ -13,7 +13,7 @@ lazy-object-proxy==1.6.0
 MarkupSafe==1.1.1
 mccabe==0.6.1
 mutagen==1.45.1
-numpy==1.20.2
+numpy==1.21.0
 passlib==1.7.4
 pycparser==2.20
 pydub==0.25.1
